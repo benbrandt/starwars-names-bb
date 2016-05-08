@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/benbrandt/starwars-names-bb/issues"
   },
-  "homepage": "https://github.com/benbrandt/starwars-names-bb#readme"
+  "homepage": "https://github.com/benbrandt/starwars-names-bb#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
 }

@@ -1,3 +1,5 @@
+'use strict';
+
 const uniqueRandomArray = require('unique-random-array');
 const starWarsNames = require('./starwars-names.json');
 const getRandomItem = uniqueRandomArray(starWarsNames);

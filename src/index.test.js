@@ -1,7 +1,5 @@
-'use strict';
-
-const expect = require('chai').expect;
-const starWars = require('./index');
+import { expect } from 'chai';
+import starWars from './index';
 
 describe('starwars-names', () => {
   describe('all', () => {
